@@ -1,4 +1,4 @@
-public class JavaMethodlariDemo {
+public class D1_JavaMethodlariDemo {
     public static void main(String[] args) {
 
         // access modifiers ( erisim belirleyiciler)
